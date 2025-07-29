@@ -57,7 +57,12 @@ Summary cards for mean, stddev, skewness, kurtosis
 Forecast trend lines based on historical price movement
 
 # Dashboard Preview
- Conclusion
+ 
+ 
+ 
+ 
+ # Conclusion
+ 
 This project successfully demonstrates a complete analytical pipeline for coal and energy price forecasting using a combination of Python, SQL, Excel, and Power BI. The integration of these tools enabled robust data analysis, statistical profiling, and interactive visualization.
 
 Key takeaways from the analysis include:
