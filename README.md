@@ -57,6 +57,8 @@ Summary cards for mean, stddev, skewness, kurtosis
 Forecast trend lines based on historical price movement
 
 # Dashboard Preview
+
+screenshot.jpg
  
  
  
