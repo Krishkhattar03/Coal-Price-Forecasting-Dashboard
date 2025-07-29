@@ -58,7 +58,7 @@ Forecast trend lines based on historical price movement
 
 # Dashboard Preview
 
-   ## 📷 Dashboard Preview
+  
 
 ![Dashboard Preview](https://github.com/Krishkhattar03/Coal-Price-Forecasting-Dashboard/blob/main/screenshot.jpg)
 
