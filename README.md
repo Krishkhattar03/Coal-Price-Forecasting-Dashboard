@@ -3,15 +3,6 @@
 This project is an end-to-end data analytics and visualization solution designed to analyze and forecast global coal and energy prices using multiple tools: Python, SQL, Excel, and Power BI.
 It combines statistical analysis, database querying, and interactive visualization to empower decision-makers in the energy sector.
 
-# Coal-Price-Forecasting-Dashboard/
-├── 📊 PowerBI_Dashboard.pbix
-├── 📈 EDA_Scripts/
-│   ├── eda https://1drv.ms/u/c/a7dac65cb49b81e7/EZ3gP2n0pkhFmn-WaQvMH8gBt0jOC16KUzTAt8V7eDKSSA?e=OMC3Eu
-│   └── sql https://1drv.ms/u/c/a7dac65cb49b81e7/EcagsBY8B4pDhiiFcZKYqsMBgfxVKTVuY5WgjDla3OCB1Q?e=denhu5
-├── 📂 Excel_Calculations/
-│   └── Data https://1drv.ms/x/c/a7dac65cb49b81e7/EW-rDNehUw5LkxnQr63fMUoBO9busU4jgo3l4F9bq1vDtw?e=MKw2Ne
-
-
 # Objective
 To analyze historical coal and energy market price data, extract key statistical insights (mean, stddev, skewness, kurtosis), and present interactive visual dashboards to support forecasting, decision making, and trend analysis.
 
